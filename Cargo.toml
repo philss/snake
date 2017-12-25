@@ -1,0 +1,8 @@
+[package]
+name = "snake"
+version = "0.1.0"
+authors = ["Philip Sampaio Silva <philip.sampaio@gmail.com>"]
+description = "An implementation of snake game"
+license = "Apache-2.0"
+
+[dependencies]
